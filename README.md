@@ -15,9 +15,16 @@ Can you **engrave your name into the annals of history** and **save existence it
 
 ## 📦 Install Instructions
 
-1. **Download** either `skyisfalling_mac.zip` or `skyisfalling_windows.zip`.
+### For Mac:
+1. **Download** `skyisfalling_mac.zip`
 2. **Extract** the `.zip` file on your system.
-3. **Double-click** the application to launch the game!
+3. **Double-click** `skyisfalling_mac.app` to launch the game!
+
+### For Windows:
+1. **Download** `skyisfalling_windows.zip`
+2. **Extract** the `.zip` file on your system.
+3. **Open** `skyisfalling_windows`
+4. **Double-click** `The Sky Is Falling.exe` to launch the game!
 
 ---
 
