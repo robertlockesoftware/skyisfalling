@@ -1,4 +1,5 @@
 # 🌌 skyisfalling
+> Kyle Wong, Ryan Hirte, Robert Locke  
 > Submitted for the approval of **Game Design II**
 
 ---
